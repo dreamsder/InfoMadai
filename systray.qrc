@@ -1,0 +1,33 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>images/fondoRec.png</file>
+        <file>images/StripedFonto.jpg</file>
+        <file>images/Wall_A_3002.png</file>
+        <file>controlesQml/BotonBarraDeHerramientas.qml</file>
+        <file>images/TrianguloBlanco.png</file>
+        <file>images/Wall_A_3002_1_2.png</file>
+        <file>images/reclamos.png</file>
+        <file>images/cero.png</file>
+        <file>images/Configuracion.png</file>
+        <file>Listas/ListaTipoReclamos.qml</file>
+        <file>images/actualizar.png</file>
+        <file>controlesQml/MapaDeReclamos.qml</file>
+        <file>Listas/ListaTecnicosReclamos.qml</file>
+        <file>controlesQml/PantallaConfiguracion.qml</file>
+        <file>images/VistoOk.png</file>
+        <file>controlesQml/CheckBox.qml</file>
+        <file>controlesQml/TextInputSimple.qml</file>
+        <file>controlesQml/ComboBoxEstados.qml</file>
+        <file>controlesQml/ComboBoxAreas.qml</file>
+        <file>controlesQml/TextInput2.qml</file>
+        <file>controlesQml/BotonPaletaSistema.qml</file>
+        <file>images/delete.png</file>
+        <file>images/iconoMover.png</file>
+        <file>Listas/ListaTipoReclamosMiniDisplay.qml</file>
+        <file>images/campana.png</file>
+        <file>images/campana32x32.png</file>
+        <file>controlesQml/AlertasProgramadas.qml</file>
+        <file>Listas/ListaAlertasProgramadas.qml</file>
+    </qresource>
+</RCC>
