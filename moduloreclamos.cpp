@@ -70,7 +70,7 @@ void ModuloReclamos::limpiarListaReclamo(){
 void ModuloReclamos::buscarReclamos(QString _consultaSql){
 
 
-    qDebug()<<_consultaSql;
+  //  qDebug()<<_consultaSql;
 
     bool conexion=true;
 

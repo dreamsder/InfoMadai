@@ -215,7 +215,7 @@ Rectangle {
             anchors.fill: parent
             onClicked: {
 
-                if(tipoReclamo=="3"){
+                if(tipoReclamo=="3" || tipoReclamo=="99"){
                     modeloReclamos.eliminoReclamoRemoto(codigoReclamo)
                     modeloReclamosSeleccionado.remove(index)
                 }

@@ -13,7 +13,7 @@ Rectangle {
     smooth: true
     visible: true
 
-    property string _version: "2.3.1"
+    property string _version: "2.3.2"
 
     //cambios:
     //2.2.0: Se agregan los reclamos con estado finalizado.
@@ -23,6 +23,7 @@ Rectangle {
     //2.2.3: Se actualiza para obtener la web desde la configuracion
     //2.3.0: Se deriva el calculo de tiempo a la aplicación que levanta los reclamos
     //2.3.1: Se agrega soporte para reclamos Finalizados Guardia.
+    //2.3.2: Se agrega la posibilidad de eliminar de la lista reclamos Finalizados Guardia(codigoEstado 99).
 
     Rectangle {
         id: rectangle1
